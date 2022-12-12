@@ -1,0 +1,22 @@
+<Fines>
+  <Fine>
+    <type>NoLicense</type>
+    <fine_amount>3.05503632E8</fine_amount>
+  </Fine>
+  <Fine>
+    <type>ALCOHOL</type>
+    <fine_amount>1.78516076E8</fine_amount>
+  </Fine>
+  <Fine>
+    <type>CrossingTheSolidLine</type>
+    <fine_amount>1.30199354E8</fine_amount>
+  </Fine>
+  <Fine>
+    <type>NoInsurance</type>
+    <fine_amount>4.5583524E7</fine_amount>
+  </Fine>
+  <Fine>
+    <type>SPEEDING</type>
+    <fine_amount>4.1236832E7</fine_amount>
+  </Fine>
+</Fines>
